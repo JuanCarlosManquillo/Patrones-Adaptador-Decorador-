@@ -1,10 +1,6 @@
 Integrantes:
 
+Juan C. Manquillo
 Juan Manuel Ceron
 Daniel Botia
-Juan C. Manquillo
 Sharyth Velasco
-
-Repositorio GitHub:
-
-https://github.com/JuanCarlosManquillo/LABORATORIO-DE-PATRONES-DE-ARQUITECTURA-CAPAS-Y-MVC-MICROKERNEL.git
